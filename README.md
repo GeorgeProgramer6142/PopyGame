@@ -1,37 +1,7 @@
-## PopyGame
-
-TODO: description
-
-PopyGame
+# PopyGame
 by TreeGameStudio
 
-## Git
-
-### How to commit changes
-
-```
-cd PopyGame
-
-git add .
-git commit -m "<comment>"
-git push
-```
-
-### Common git commands
-
-```
-git status # see changes
-git pull # download changes from remote repository
-```
-
-### How to change branches
-
-```
-git checkout -b <new-branch-name> # create new branch
-git checkout main # return to main
-
-git branch --list # see all branches
-```
+##### Description: Did you anytime wanted to catch a parrot? Or the gorilla? Or the hare? You can do it in this game.
 
 # Testing Big Font
 ###### Testing Small Font
